@@ -1,0 +1,15 @@
+Custom License - © 2025 Bill WOROU
+
+You are free to:
+- Use, copy, modify, and distribute this code for personal and educational purposes.
+- Include this code in open-source projects under the condition that clear credit is given to the original author ([TonNom]) in the README and source files.
+
+You are NOT allowed to:
+- Use this code, in part or in whole, in any commercial product or service without prior written permission or a commercial license agreement.
+
+Commercial Use:
+To use this code in a commercial product or service, you must obtain a commercial license. Contact the author at [ton.email@email.com] to discuss terms and compensation.
+
+This license grants no warranty and the software is provided "as-is".
+
+
